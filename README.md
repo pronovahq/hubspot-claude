@@ -271,3 +271,7 @@ Open an issue at [github.com/promptmetrics/hubspot-claude/issues](https://github
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+Built by [Izzy Aly](https://github.com/iiizzzyyy) at [PromptMetrics](https://github.com/promptmetrics).
