@@ -4,12 +4,14 @@
 
 **Run your HubSpot CRM from the Claude Code prompt — every write previewed and approved before it touches your portal.**
 
-[![CI](https://github.com/promptmetrics/hubspot-claude/actions/workflows/ci.yml/badge.svg)](https://github.com/promptmetrics/hubspot-claude/actions/workflows/ci.yml)
-[![Version](https://img.shields.io/github/v/tag/promptmetrics/hubspot-claude?label=version)](https://github.com/promptmetrics/hubspot-claude/tags)
+[![CI](https://github.com/pronovahq/hubspot-claude/actions/workflows/ci.yml/badge.svg)](https://github.com/pronovahq/hubspot-claude/actions/workflows/ci.yml)
+[![Version](https://img.shields.io/github/v/tag/pronovahq/hubspot-claude?label=version)](https://github.com/pronovahq/hubspot-claude/tags)
 [![Python](https://img.shields.io/badge/python-%E2%89%A53.12-blue)](pyproject.toml)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 </div>
+
+> **Moved:** this repo now lives at [pronovahq/hubspot-claude](https://github.com/pronovahq/hubspot-claude). Links and clones of the old `promptmetrics/hubspot-claude` address redirect.
 
 <!-- DEMO: record per the recipe in readme-analysis-2026-07-22.md and drop the file at docs/media/demo.gif, then uncomment:
 ![demo: find duplicate contacts → preview → approve](docs/media/demo.gif)
@@ -81,7 +83,7 @@ Requirement IDs (R1–R13) map to `docs/PRD.md`, the source of truth. Don't plan
 **Install (from the marketplace):**
 
 ```
-/plugin marketplace add promptmetrics/hubspot-claude
+/plugin marketplace add pronovahq/hubspot-claude
 /plugin install hubspot@hubspot-claude
 ```
 
@@ -266,7 +268,7 @@ claude --plugin-dir ./                       # load the plugin for this session
 
 ## Questions or issues?
 
-Open an issue at [github.com/promptmetrics/hubspot-claude/issues](https://github.com/promptmetrics/hubspot-claude/issues).
+Open an issue at [github.com/pronovahq/hubspot-claude/issues](https://github.com/pronovahq/hubspot-claude/issues).
 
 ## License
 

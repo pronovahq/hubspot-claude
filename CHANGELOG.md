@@ -4,9 +4,14 @@ All notable changes to the HubSpot Agent plugin are documented here. Format foll
 [Keep a Changelog](https://keepachangelog.com/); the three version fields
 (`pyproject.toml`, `.claude-plugin/plugin.json`, `.claude-plugin/marketplace.json`)
 are kept in sync. Full release notes for each tag live at
-[GitHub Releases](https://github.com/promptmetrics/hubspot-claude/releases).
+[GitHub Releases](https://github.com/pronovahq/hubspot-claude/releases).
 
 ## [Unreleased]
+
+### Changed
+
+- The repo moved from `promptmetrics/hubspot-claude` to `pronovahq/hubspot-claude` on 2026-11-24. Links, badges, the
+  install command and the manifest URLs point to the new address. The old address redirects.
 
 ## [0.2.14] — 2026-07-22
 

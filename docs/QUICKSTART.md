@@ -15,7 +15,7 @@ Get the HubSpot Admin Agent running in under 10 minutes.
 ## Installation
 
 ```bash
-git clone https://github.com/promptmetrics/hubspot-claude.git
+git clone https://github.com/pronovahq/hubspot-claude.git
 cd hubspot-claude
 pip install -e ".[dev]"
 ```
