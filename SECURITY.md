@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 **Do not open a public issue for security problems.** Report privately via GitHub's
-[private vulnerability reporting](https://github.com/promptmetrics/hubspot-claude/security/advisories/new),
+[private vulnerability reporting](https://github.com/pronovahq/hubspot-claude/security/advisories/new),
 or email izzy@promptmetrics.dev.
 
 Include the affected version, reproduction steps, and impact. Expect an

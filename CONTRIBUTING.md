@@ -18,7 +18,7 @@ checks your change must pass, and the conventions we follow.
 ## Local setup
 
 ```bash
-git clone https://github.com/promptmetrics/hubspot-claude.git
+git clone https://github.com/pronovahq/hubspot-claude.git
 cd hubspot-claude
 pip install -e ".[dev]"     # Python >= 3.12
 ```
@@ -48,7 +48,7 @@ envelopes — never trust a success envelope.
 - Use conventional commits (`feat:`, `fix:`, `test:`, `docs:` …) and reference requirement IDs.
 - When bumping the version, keep `pyproject.toml`, `.claude-plugin/plugin.json`, and
   `.claude-plugin/marketplace.json` in sync.
-- Open PRs against `promptmetrics/hubspot-claude`.
+- Open PRs against `pronovahq/hubspot-claude`.
 
 By contributing, you agree that your contributions are licensed under the MIT License (see
 [LICENSE](LICENSE)).
